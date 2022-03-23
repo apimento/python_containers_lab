@@ -47,8 +47,8 @@ foods = ("couscous" , "lemon", "pepper", "olive oil")
 
 
 #CHALLENGE 8 
-a_foods = []
-for x in foods: 
-    if "o" in x: 
-        a_foods.append(x) 
-print(a_foods)
+# a_foods = []
+# for x in foods: 
+#     if "a" in x: 
+#         a_foods.append(x) 
+# print(a_foods)
